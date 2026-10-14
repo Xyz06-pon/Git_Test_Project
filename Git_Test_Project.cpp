@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello\n";
+    std::cout << "Hello NewBranch\n";
+    std::cout << "Hello newPullReguest\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
